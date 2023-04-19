@@ -7,7 +7,7 @@ public class A {
         System.out.println(VariablesTest.staticName);
 
         VariablesTest variablesTest = new VariablesTest();
-        System.out.println(variablesTest.name);
 
+        System.out.println(variablesTest.name);
     }
 }
