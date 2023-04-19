@@ -3,7 +3,7 @@ package org.example;
 public class VariablesTest {
 
 
-    String name = "instance variable"; //Instance V, Class level, Scope: Inside Class & Outside Method, memory:heap, To call we need obj
+   public String name = "instance variable"; //Instance V, Class level, Scope: Inside Class & Outside Method, memory:heap, To call we need obj
     static String staticName = "static variable"; //Static v, Instance Variable with Static Keyword, no obj creation is required
 
     public void m1(){
