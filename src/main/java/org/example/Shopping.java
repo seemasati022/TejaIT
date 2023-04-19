@@ -6,15 +6,13 @@ public class Shopping {
         int mi = 10000;
         int oppo = 12000;
         int vivo = 15000;
-        int totalAmount = mi + oppo + vivo;
-        return totalAmount;
+        return mi + oppo + vivo;
     }
 
     public int dresses(){
         int shirts = 2000;
         int jeans = 6000;
-        int totalAmount = shirts + jeans;
-        return totalAmount;
+        return shirts + jeans;
     }
 
     public int totalCartValue(){
