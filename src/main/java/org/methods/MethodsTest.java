@@ -1,4 +1,4 @@
-package org.example;
+package org.methods;
 
 public class MethodsTest {
     int i = 1;

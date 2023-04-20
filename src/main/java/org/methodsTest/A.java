@@ -1,6 +1,6 @@
-package org.testpkg;
+package org.methodsTest;
 
-import org.example.VariablesTest;
+import org.methods.VariablesTest;
 
 public class A {
    // static VariablesTest variablesTest = new VariablesTest();
